@@ -1,0 +1,6 @@
+{
+    "webServer":{
+        "filePath": "www",
+        "port": 3000
+    }
+}

@@ -1,0 +1,1 @@
+function display(){ } console.log(display());
